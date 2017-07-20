@@ -13,7 +13,7 @@
 
  ```
 
-使用也很简单,可以结合Smconf使用
+使用也很简单,可以结合[Smconf](https://github.com/yinjihuan/smconf)使用
 ```
 spring.dubbo.scan=com.cxytiandi.ld.service.rpc
 spring.dubbo.application.name=${spring.dubbo.applicationName}
